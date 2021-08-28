@@ -7,5 +7,5 @@ class App
       System.out.println("Fim do Programa."); 
    }
   
-   // Autor: Daniel Callegari 2021
+   // Autor: Daniel Callegari 2021.
 }
